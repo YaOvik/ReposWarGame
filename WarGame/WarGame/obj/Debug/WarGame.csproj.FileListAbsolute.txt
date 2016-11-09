@@ -1,1 +1,2 @@
 C:\Users\java\Source\Repos\WarGame\WarGame\WarGame\bin\Debug\WarGame.exe.config
+C:\Users\java\Documents\GitHub\ReposWarGame\WarGame\WarGame\bin\Debug\WarGame.exe.config
