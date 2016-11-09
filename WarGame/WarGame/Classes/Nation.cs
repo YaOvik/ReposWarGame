@@ -9,16 +9,21 @@ namespace WarGame.Classes
 {
     class Nation
     {
-        private string _nationName;
-        private int _nationEndurance;
+        public string _nationName;
+        public int _nationEndurance;
+        public int _nationXPosition;
+        public int _nationYPosition;
+
         private Color _nationColor;
         private string _nationImagePath;
 
 
-        public Nation(string name, int endurance, Color color, string imagePath)
+        public Nation(string name, int endurance, int xpos, int ypos, Color color, string imagePath)
         {
             _nationName = name;
             _nationEndurance = endurance;
+            _nationXPosition = xpos;
+            _nationYPosition = ypos;
             _nationColor = color;
             _nationImagePath = imagePath;
         }
