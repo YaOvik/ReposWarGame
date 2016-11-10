@@ -1,2 +1,6 @@
 C:\Users\java\Source\Repos\WarGame\WarGame\WarGame\bin\Debug\WarGame.exe.config
 C:\Users\java\Documents\GitHub\ReposWarGame\WarGame\WarGame\bin\Debug\WarGame.exe.config
+C:\Users\java\Documents\GitHub\ReposWarGame\WarGame\WarGame\obj\Debug\WarGame.csprojResolveAssemblyReference.cache
+C:\Users\java\Documents\GitHub\ReposWarGame\WarGame\WarGame\obj\Debug\Nation\Props\wpfWorldMap.g.cs
+C:\Users\java\Documents\GitHub\ReposWarGame\WarGame\WarGame\obj\Debug\WarGame_MarkupCompile.cache
+C:\Users\java\Documents\GitHub\ReposWarGame\WarGame\WarGame\obj\Debug\WarGame_MarkupCompile.lref
