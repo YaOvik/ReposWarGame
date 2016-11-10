@@ -68,10 +68,6 @@
     <Compile Include="Nation\Nations\Nations.cs" />
     <Compile Include="Nation\Props\Enums.cs" />
     <Compile Include="Nation\Props\NationProps.cs" />
-    <Compile Include="Nation\Props\wpfWorldMap.xaml.cs">
-      <DependentUpon>wpfWorldMap.xaml</DependentUpon>
-    </Compile>
-    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -106,12 +102,6 @@
       <ProductName>.NET Framework 3.5 SP1</ProductName>
       <Install>false</Install>
     </BootstrapperPackage>
-  </ItemGroup>
-  <ItemGroup>
-    <Page Include="Nation\Props\wpfWorldMap.xaml">
-      <SubType>Designer</SubType>
-      <Generator>MSBuild:Compile</Generator>
-    </Page>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

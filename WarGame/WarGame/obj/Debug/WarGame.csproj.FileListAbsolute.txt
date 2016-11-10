@@ -4,3 +4,5 @@ C:\Users\java\Documents\GitHub\ReposWarGame\WarGame\WarGame\obj\Debug\WarGame.cs
 C:\Users\java\Documents\GitHub\ReposWarGame\WarGame\WarGame\obj\Debug\Nation\Props\wpfWorldMap.g.cs
 C:\Users\java\Documents\GitHub\ReposWarGame\WarGame\WarGame\obj\Debug\WarGame_MarkupCompile.cache
 C:\Users\java\Documents\GitHub\ReposWarGame\WarGame\WarGame\obj\Debug\WarGame_MarkupCompile.lref
+C:\Users\java\Documents\GitHub\ReposWarGame\WarGame\WarGame\obj\Debug\WarGame.Properties.Resources.resources
+C:\Users\java\Documents\GitHub\ReposWarGame\WarGame\WarGame\obj\Debug\WarGame.csproj.GenerateResource.Cache
